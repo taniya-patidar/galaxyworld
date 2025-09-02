@@ -180,5 +180,10 @@ h1{
   background-color: black;
   color: white;
 
-  display: ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
+  
 }
