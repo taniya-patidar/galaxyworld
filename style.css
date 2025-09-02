@@ -187,3 +187,8 @@ h1{
 
   
 }
+.pg{
+  display: flex;
+  flex-direction: column;
+
+}
